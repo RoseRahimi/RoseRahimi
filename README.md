@@ -1,11 +1,8 @@
 Hi there 👋
 
-I am Fatima Rahimi, I go by Rose. I am junior computer Science student at Bard college. 
-My passion for computer science isn’t limited to just one area. I enjoy exploring a wide range of topics, from statistical simulations and network security to penetration testing and hardware systems. Whether I’m building a simulation from scratch, analyzing system vulnerabilities, or understanding how components interact at the hardware level, I’m drawn to the challenge of solving complex, real world problems through code and experimentation.
+I am Fatima Rahimi, I go by Rose. I am a senior computer Science student at Bard college. 
+I’m interested in how quantitative research and technology can come together to solve real world problems. I like working at different levels, thinking about how a model behaves at the portfolio level, and also digging into the details of how it’s implemented to make sure it’s accurate and robust.
 
-- 🔭 Currently collaborating in developing the game logic and UI for Wordle and spelling bee using JAVA.
-- 🌱 Currently learning Algorithms, Assembly, and red teaming techniques. 
-- 💬 Ask me about data analysis, scripting, or how I learned Python for making my own statistical toolbox 
-- 📫 How to reach me: fatimarahimi502@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a competitive swimmer and find my best ideas during long pool laps.
+Outside of academics, I’m a student-athlete and competitive swimmer. Training has taught me discipline, focus, and how to push through setbacks, qualities I carry into my technical and research work. Some of my best ideas come during long laps in the pool or quiet moments outdoors with a notebook and tea.
+
+I enjoy learning, collaborating, and helping others get unstuck. 
