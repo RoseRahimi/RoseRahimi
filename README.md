@@ -1,8 +1,9 @@
 Hi there 👋
 
-I am Fatima Rahimi, I go by Rose. I am a senior computer Science student at Bard college. 
-I’m interested in how quantitative research and technology can come together to solve real world problems. I like working at different levels, thinking about how a model behaves at the portfolio level, and also digging into the details of how it’s implemented to make sure it’s accurate and robust.
+I’m Fatima (Rose) Rahimi, a senior Computer Science student at Bard College with a strong interest in how quantitative research and technology come together to solve real world problems. I enjoy working across different layers of a system thinking about how models behave at the portfolio level, while also digging into the engineering details that make them accurate, reliable, and reproducible.
 
-Outside of academics, I’m a student-athlete and competitive swimmer. Training has taught me discipline, focus, and how to push through setbacks, qualities I carry into my technical and research work. Some of my best ideas come during long laps in the pool or quiet moments outdoors with a notebook and tea.
+I’ve built tools for quantitative researchers during my internship at Man Numeric, including automated testing pipelines, DAG-based monitoring systems, and workflow validation tools. I’m currently developing my senior thesis: a three part alpha generation pipeline integrating neural feature extraction, agentic AI signal evaluation, and backtesting them on historical data.
 
-I enjoy learning, collaborating, and helping others get unstuck. 
+Outside of academics, I’m a student athlete and competitive swimmer. Training has taught me discipline, consistency, and how to push through difficult problems, qualities I carry into engineering and research.
+
+I love learning, building, and helping others get unstuck. Feel free to browse my projects!
