@@ -1,10 +1,10 @@
 Hi there 👋
 
-I’m Fatima (Rose) Rahimi, a senior Computer Science student at Bard College with a strong interest in how quantitative research and technology come together to solve real world problems. I enjoy working across different layers of a system thinking about how models behave at the portfolio level, while also digging into the engineering details that make them accurate, reliable, and reproducible.
+I’m Fatima (Rose) Rahimi, a senior Computer Science student at Bard College. I enjoy working across the stack from insfrastructure up through the interface, and figuring out how the pieces fit together. 
 
-I co-developed a tool for quantitative researchers during my internship at Man Numeric. The tooling is a DAG based correlation validation to identify where correlation breakdowns occur in upstream data pipelines. I also worked on automated testing for a research facing application that is used daily by quantitative researchers whicch was done using Playwright and Pytest. 
+Last summer at Man Numeric, I co-developed a DAG-based correlation monitoring tool for the quant research team. It flags where correlations drop in upstream data pipelines, which can mean a broken signal or, sometimes, a trade. I also built out automated UI testing in Playwright and Pytest for a research app the quants use daily.
 
-I am currently working on my senior thesis, forecasting with GANS, which examines how neural networks can be used to support predictive modeling for financial time series.
+I wrote my senior thesis on forecasting financial time series with GANs, extending FinGAN with TimeGAN's embedder and attention over the latent context. 
 
 Outside of academics, I’m a student athlete and competitive swimmer. Training has taught me discipline, consistency, and how to push through difficult problems, qualities I carry into engineering and research.
 
